@@ -1,0 +1,21 @@
+{
+    "final_agreement": {
+        "proposals": [
+            "prop_003",
+            "prop_002",
+            "prop_004"
+        ],
+        "supporting_reps": [
+            "rep_003",
+            "rep_001",
+            "rep_002",
+            "rep_004"
+        ]
+    },
+    "alliances": [
+        [
+            "rep_001",
+            "rep_004"
+        ]
+    ]
+}
